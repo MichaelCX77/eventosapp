@@ -71,7 +71,7 @@ Pré Requisito: Java 8 e Maven com variáveis de ambiente configuradas
 
   ```bash
 #1 clonar repositório
-  git clone https://github.com/MichaelCX77/project-manager
+  git clone https://github.com/MichaelCX77/eventosapp
   
 #2 entrar na pasta do projeto
   cd eventosapp
