@@ -19,9 +19,9 @@ Clique <a href="https://eventoapp2019.herokuapp.com/">aqui</a> e acesse a aplica
 
 <br/>
 <div align="center">
-    <img width="1000em" src="https://github.com/MichaelCX77/assets/blob/master/assets-eventosapp/png/cadastro_evento.png"></a><br/><br/>
-    <img width="1000em" src="https://github.com/MichaelCX77/assets/blob/master/assets-eventosapp/png/detalhe_evento.png"></a><br/><br/>
-    <img width="1000em" src="https://github.com/MichaelCX77/assets/blob/master/assets-eventosapp/png/lista_eventos.png"></a><br/><br/>
+    <img width="900em" src="https://github.com/MichaelCX77/assets/blob/master/assets-eventosapp/png/cadastro_evento.png"></a><br/><br/>
+    <img width="900em" src="https://github.com/MichaelCX77/assets/blob/master/assets-eventosapp/png/detalhe_evento.png"></a><br/><br/>
+    <img width="900em" src="https://github.com/MichaelCX77/assets/blob/master/assets-eventosapp/png/lista_eventos.png"></a><br/><br/>
 </div>
 <br/>
 
