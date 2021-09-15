@@ -41,7 +41,7 @@ Clique <a href="https://eventoapp2019.herokuapp.com/">aqui</a> e acesse a aplica
   
 <li> Java / SpringBoot
 <li> Maven
-<li> Outras Biblitecas e Ferramentas: Crud Repository, JPA, ModelAndView.
+<li> Outras Biblitecas e Ferramentas: Crud Repository, JPA, Hibernate, ModelAndView.
 
 <br/>
   
